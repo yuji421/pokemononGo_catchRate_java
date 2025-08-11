@@ -1,0 +1,1 @@
+# pokemononGo_catchRate_java
